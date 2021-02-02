@@ -1,1 +1,2 @@
+include ':customview'
 rootProject.name = "hencoder-study"
